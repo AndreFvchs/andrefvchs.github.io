@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Andre Fuchs | Full Stack Designer</title>
-    <link>https://andrefvchs.github.io/portfolio/portfolio/</link>
+    <link>https://andrefvchs.github.io/portfolio/</link>
     <description>Recent content in Portfolios on Andre Fuchs | Full Stack Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 19 Mar 2018 18:58:59 +0100</lastBuildDate>
     
-	<atom:link href="https://andrefvchs.github.io/portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andrefvchs.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projekt | Ritualin — Progressives Web App (PWA) VueJS &#43; Vuetify &#43; Firebase &#43; PHP &#43; MomentJS</title>
-      <link>https://andrefvchs.github.io/portfolio/portfolio/ritualin-progressives-web--app-vuejs-firebase-vuetify-momentjs/</link>
+      <link>https://andrefvchs.github.io/portfolio/ritualin-progressives-web--app-vuejs-firebase-vuetify-momentjs/</link>
       <pubDate>Mon, 19 Mar 2018 18:58:59 +0100</pubDate>
       
-      <guid>https://andrefvchs.github.io/portfolio/portfolio/ritualin-progressives-web--app-vuejs-firebase-vuetify-momentjs/</guid>
+      <guid>https://andrefvchs.github.io/portfolio/ritualin-progressives-web--app-vuejs-firebase-vuetify-momentjs/</guid>
       <description>Ritualin — Burnout Präventions-App  URL: https://ritualin.com Typ: Progressives Web App (PWA), Responsive
  Stack
  VueJS: JavaScript Framework Vuetify: Material Design Component Framework Firebase: Real Time Databse, Authentication, Cloud Messaging (Push Notifications) MomentJS: Zeitabfragen, Zeitangaben PHP: CronJob + Scheduler Script für Push-Benachrichtungen  Status: Private-Beta, Veröffentlichung Q2, 2018
@@ -26,10 +26,10 @@ Ritualin — Burnout Präventions-Blog  URL: https://ritualin.com/blog Typ: Blog
     
     <item>
       <title>Kontakt | Andre Fuchs — Freiberuflicher Full Stack Designer, München</title>
-      <link>https://andrefvchs.github.io/portfolio/portfolio/freiberuflicher-full-stack-designer-muenchen/</link>
+      <link>https://andrefvchs.github.io/portfolio/freiberuflicher-full-stack-designer-muenchen/</link>
       <pubDate>Mon, 01 Jan 2018 01:00:00 +0100</pubDate>
       
-      <guid>https://andrefvchs.github.io/portfolio/portfolio/freiberuflicher-full-stack-designer-muenchen/</guid>
+      <guid>https://andrefvchs.github.io/portfolio/freiberuflicher-full-stack-designer-muenchen/</guid>
       <description> Kontakt Andre Fuchs | Diplom Kommunikationsdesigner
 Grafinger Str. 6
 81673 München
