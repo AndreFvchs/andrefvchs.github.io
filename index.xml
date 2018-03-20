@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andre Fuchs —</title>
+    <title>Andre Fuchs</title>
     <link>https://andrefvchs.github.io/</link>
-    <description>Recent content on Andre Fuchs —</description>
+    <description>Recent content on Andre Fuchs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 19 Mar 2018 18:58:59 +0100</lastBuildDate>
@@ -19,7 +19,7 @@
       <guid>https://andrefvchs.github.io/portfolio/ritualin-progressives-web--app-vuejs-firebase-vuetify-momentjs/</guid>
       <description>Ritualin — Burnout Präventions-App  URL: https://ritualin.com Typ: Progressives Web App (PWA), Responsive
  Stack
- VueJS: JavaScript Framework Vuetify: Material Design Component Framework Firebase: Real Time Databse, Authentication, Cloud Messaging (Push Notifications) MomentJS: Zeitabfragen, Zeitangaben PHP: CronJob + Scheduler Script für Push-Benachrichtungen  Status: Private-Beta, Veröffentlichung Q2, 2018
+ VueJS: JavaScript Framework Vuetify: Material Design Component Framework Firebase: Real Time Database, Authentication, Cloud Messaging (Push Notifications) MomentJS: Zeitabfragen, Zeitangaben PHP: CronJob + Scheduler Script für Push-Benachrichtungen  Status: Private-Beta, Veröffentlichung Q2, 2018
   Jetzt Betatester werden! → https://ritualin.com
 Ritualin — Burnout Präventions-Blog  URL: https://ritualin.com/blog Typ: Blog, Responsive Ziel: Fokus auf schnelle Ladezeiten, aufgeräumtes unaufdringliches Design</description>
     </item>

@@ -338,6 +338,10 @@ pre, code {
 .post-content a {
   border-bottom: 1px solid rgba(0, 0, 0, .8);
 }
+.post-content a:hover {
+color: #3d1600;
+}
+
 .post-content p,
 .post-content ul,
 .post-content ol,
